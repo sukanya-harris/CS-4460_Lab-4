@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.axis-label {
+    text-anchor: end;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Open Sans', 'open-sans', sans-serif;
+    margin: 0;
+    font-weight: 600;
+}
+
+.bar {
+    fill: #4571C9;
+}
+#main {
+    margin: 20px;
+}
